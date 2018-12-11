@@ -9,10 +9,8 @@
 
 3、fec编解码算法为模拟的最简单的两个数据包XOR处理
 
-4、rtsp部分的实现感谢https://www.wolfcstech.com/2017/09/05/live555_src_analysis_play/  
-提供的理论支持；fec部分感谢  
-https://github.com/EricEricson/RTSP-Streaming-FEC/  
-提供的开源支持
+4、rtsp部分的实现感谢  https://www.wolfcstech.com/2017/09/05/live555_src_analysis_play/  提供的理论支持；fec部分感谢  
+https://github.com/EricEricson/RTSP-Streaming-FEC/  提供的开源支持
 
 ========================================================================
 
